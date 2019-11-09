@@ -25,6 +25,35 @@ Here you can find screenshots and the changelogs of my applications that are bui
   </div>
 </article>
       </div>
+  </div>   
+   
+   <HR>
+   
+   <div class="Box-body">
+        <article class="markdown-body entry-content p-5" itemprop="text"><h1><a id="user-content-my-private-source-apps" class="anchor" aria-hidden="true" href="#my-private-source-apps"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>F-asber App</h1>
+<p>F-asber App is a new idea that has many features for muslimus, the main feature of App is to suggest Quranic verses, duas and articles that related to his mental state.  </p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> F-asber App help muslimus to be cool and good mental state by duas and quranic verses.</li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> F-asber App contains alot of aricles that benfiting anyone. </li>
+ <li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> F-asber App has consultation section for anyone has any questionnaire. </li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked="">  F-asber App has a lot of books and any requested books will be offered.</li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked="">  Project has alot of future developments that making it the best techniclaity and related features. </li>
+</ul>
+
+
+<h3><a id="user-content-screenshots" class="anchor" aria-hidden="true" href="#screenshots"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fiZll-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a><a id="user-content-screenshots" href="#screenshots"></a>Screenshots</h3>
+<p align="center"> 
+</p><p><a href="https://user-images.githubusercontent.com/20733292/68532723-a1b8b280-0329-11ea-9995-42821dda948e.jpg"><img src="https://user-images.githubusercontent.com/20733292/68532723-a1b8b280-0329-11ea-9995-42821dda948e.jpg" width="250" style="max-width:100%;"></a>                                          <a href="https://user-images.githubusercontent.com/20733292/68532724-a2514900-0329-11ea-9664-9d98d37af4e5.jpg" rel="nofollow"><img src="https://user-images.githubusercontent.com/20733292/68532724-a2514900-0329-11ea-9664-9d98d37af4e5.jpg" width="250" style="max-width:100%;"></a>                                          <a href="https://user-images.githubusercontent.com/20733292/68532725-a2514900-0329-11ea-9c66-80b024bbd626.jpg" rel="nofollow"><img src="https://user-images.githubusercontent.com/20733292/68532725-a2514900-0329-11ea-9c66-80b024bbd626.jpg" width="250" style="max-width:100%;"></a></p>
+
+<a href="https://user-images.githubusercontent.com/20733292/68532726-a2e9df80-0329-11ea-8fb4-3c817b712923.jpg"><img src="https://user-images.githubusercontent.com/20733292/68532726-a2e9df80-0329-11ea-8fb4-3c817b712923.jpg" width="250" style="max-width:100%;"></a>                                          <a href="https://user-images.githubusercontent.com/20733292/68532716-9ebdc200-0329-11ea-941a-f853821ae6dd.jpg" rel="nofollow"><img src="https://user-images.githubusercontent.com/20733292/68532716-9ebdc200-0329-11ea-941a-f853821ae6dd.jpg" width="250" style="max-width:100%;"></a>                                          <a href="https://user-images.githubusercontent.com/20733292/68532717-9f565880-0329-11ea-8ff7-37b3c745e3d9.jpg" rel="nofollow"><img src="https://user-images.githubusercontent.com/20733292/68532717-9f565880-0329-11ea-8ff7-37b3c745e3d9.jpg" width="250" style="max-width:100%;"></a></p>
+
+<a href="https://user-images.githubusercontent.com/20733292/68532718-9f565880-0329-11ea-8ec8-ab81cd5c9a73.jpg"><img src="https://user-images.githubusercontent.com/20733292/68532718-9f565880-0329-11ea-8ec8-ab81cd5c9a73.jpg" width="250" style="max-width:100%;"></a>                                          <a href="https://user-images.githubusercontent.com/20733292/68532719-9feeef00-0329-11ea-9911-098e804226a3.jpg" rel="nofollow"><img src="https://user-images.githubusercontent.com/20733292/68532719-9feeef00-0329-11ea-9911-098e804226a3.jpg" width="250" style="max-width:100%;"></a>                                          <a href="https://user-images.githubusercontent.com/20733292/68532721-a0878580-0329-11ea-8f31-257116360933.jpg" rel="nofollow"><img src="https://user-images.githubusercontent.com/20733292/68532721-a0878580-0329-11ea-8f31-257116360933.jpg" width="250" style="max-width:100%;"></a>                                          <a href="https://user-images.githubusercontent.com/20733292/68532722-a1201c00-0329-11ea-9202-7d691737d827.jpg" rel="nofollow"><img src="https://user-images.githubusercontent.com/20733292/68532722-a1201c00-0329-11ea-9202-7d691737d827.jpg" width="250" style="max-width:100%;"></a></p>
+
+</p><p></p>
+  </div>
+</article>
+      </div>
   </div>
 
-
+ <HR> 
+   
